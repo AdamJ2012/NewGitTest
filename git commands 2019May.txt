@@ -1,0 +1,74 @@
+(Used in the command prompt.)
+
+
+git clone (url)
+
+git status
+
+git add (filename)
+
+git add .
+
+git add -A
+
+git commit -m "messagehere"
+
+git push
+
+git pull
+
+git
+
+git commit
+
+Esc :wq Enter
+
+:wq
+
+:wq
+
+:wq
+
+:wq
+
+
+Notes:
+
+
+"-m" in "git commit -m "messagehere"" is short for "message.
+
+"git push" pushes local changes up to GitHub.com.
+
+"git pull" pulls from GitHub.com to local machine.
+
+"git add ." adds everything in your directory.
+
+"git add -A" adds it all
+
+"git" shows the commands and what they do.
+
+"git commit" for a multiline commit message. To get out of it press Escape, then put it :wq, then press enter.
+
+Esc :wq
+
+Putting an empty line inbetween the lines of text here will make it easier to upload these notes to GitHub.com.
+
+
+
+
+e.g.
+
+git add index.html
+
+git commit -m "added index.html"
+
+
+
+
+Videos:
+
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+https://www.youtube.com/watch?v=0fKg7e37bQE&amp=&t=285s
+
+Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics
